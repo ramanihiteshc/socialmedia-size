@@ -1,5 +1,5 @@
 # socialmedia-size
-all social media platform post image and upload backgroup image  , profile image Size list
+all social media platform post image and upload backgroup image  , profile image Size Dimensions
 
 
 
@@ -16,21 +16,38 @@ all social media platform post image and upload backgroup image  , profile image
 
 
 
-## Twitter Image Dimensions
-* Header Image - 1500 x 500
-* Profile Photo - 400 x 400
-* Post Image - 1024 x 512 (displays inline as 506 x 253)
-* Twitter Card: _twitter:card = summary_ - 1:1 (144 x 144 min, 4096 x 4096 max)
-* Twitter Card: _twitter:card = summary_large_image_ - 2:1 ratio (300 x 157 min, 4096 x 4096 max)
 
-## Facebook Image Dimensions
-* Cover Photo (profile and page) - 851 x 315
-* Profile Photo - 320 x 320
-* Post Link Image - 1200 x 630 (600 x 315 min)
-* Event Image - 1920 x 1080 (400 x 150 min)
-* Event Video - 1920 x 1080 or Square (2:1 or 1:1)
-* App Icon - 111 x 74
-* Note Cover Photo - 1200 x 445
+Twitter
+-------
+
+- Twitter Header size: 1500 x 500
+- Profile size: 400 x 400
+- Tweeted Image size: min. 440 x 220
+- Minimum to appear expanded 440 x 220
+- Maximum to appear expanded 1024 x 512
+- Appears in stream folded at 506 x 253
+- Aspect ratio 2:1 for [Summary large image](https://dev.twitter.com/cards/types/summary-large-image) type
+- Aspect ratio 1:1 for [Summary](https://dev.twitter.com/cards/types/summary) type
+
+Facebook
+--------
+
+- Cover photo size: 851 x 315
+- Profile photo size: upload 180 x 180
+- App / Tab thumbnail size: 111 x 74
+- Link preview size: min. 600 x 315
+- Photo post size: min. 504 x 504
+- Group Cover photo size: 801 x 250
+- Event Cover photo size: 784 × 295
+- Recommended upload size of 1,200 x 627 pixels.
+- Square Photo minimum 600 x 600
+- Square Photo recommended 1200 x 1200
+
+
+
+
+
+
 
 ### LinkedIn Image Dimensions
 * Profile Background - 1584 x 396
